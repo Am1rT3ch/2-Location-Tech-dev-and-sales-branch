@@ -42,7 +42,7 @@ This project simulates the IT infrastructure of a small retail tech branch. It c
 ## 📂 Files Included
 
 - `.pkt` file of the full network topology  
-- Optional documentation/screenshot folder  
+- Documentation & Configuration 
 
 ## 🌐 Use Case
 
