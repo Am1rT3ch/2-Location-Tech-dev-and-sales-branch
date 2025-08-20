@@ -32,4 +32,11 @@ interface fa0/24
 end
 wr
 
+** Local IP Address: 10.1.70.2
+
+** Subnet Mask: 255.255.255.0
+
+** DHCP Server: Disable
+
+
 ```
