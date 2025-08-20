@@ -2,9 +2,13 @@
 
 A hybrid wired and wireless network for a simulated tech sales store, built using Cisco Packet Tracer as part of my CCNA-level hands-on training.
 
+---
+
 ## 📋 Project Overview
 
 This project simulates the IT infrastructure of a small retail tech branch. It combines VLAN-based segmentation with secure wireless access, designed to support both employees and visiting customers while maintaining a secure and manageable network.
+
+---
 
 ## 🔧 Features
 
@@ -29,6 +33,8 @@ Enables automatic route exchange between sites with fast convergence and efficie
 - **Ping Tests**  
   Used to validate inter-VLAN connectivity and troubleshoot issues.
 
+---
+
 ## 🛠️ Tools & Technologies
 
 - Cisco Packet Tracer  
@@ -40,10 +46,14 @@ Enables automatic route exchange between sites with fast convergence and efficie
 - SSH  
 - ACLs  
 
+---
+
 ## 📂 Files Included
 
 - `.pkt` file of the full network topology  
 - Documentation & Configuration 
+
+---
 
 ## 🌐 Use Case
 
