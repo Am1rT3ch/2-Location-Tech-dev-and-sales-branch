@@ -14,6 +14,19 @@ This project simulates the IT infrastructure of a small retail tech branch and a
 
 - **VLAN Segmentation**  
   Dedicated VLANs for staff and guests for network isolation and improved security.
+  Six VLANs separating departments and security systems of 2 locations:
+  * vlan 10 - tech support for sales
+  * vlan 20 - accounting department
+  * vlan 30 - accounting managment
+  * vlan 40 - sales department
+  * vlan 50 - sales managment
+  * vlan 60 - reception department
+  * vlan 70 - clients wifi
+  * vlan 110 - tech support for dev
+  * vlan 120 - managment department
+  * vlan 130 - operations department
+  * vlan 140 - development department
+  * vlan 150 - wifi for workers
 
 - **Router-on-a-Stick (ROAS)**  
   Central routing setup to enable communication between VLANs.
