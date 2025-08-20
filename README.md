@@ -19,7 +19,9 @@ This project simulates the IT infrastructure of a small retail tech branch. It c
 
 - **Wireless Access Point (WAP)**  
   Configured internet access to customers and workers.
-
+  
+- **OSPF (Dynamic Routing)**
+Enables automatic route exchange between sites with fast convergence and efficient path selection.
 
 - **Access Control Lists (ACLs)**  
   Network-level policies to restrict guest access to sensitive segments.
