@@ -18,10 +18,8 @@ This project simulates the IT infrastructure of a small retail tech branch. It c
   Dynamic IP allocation to all wired devices based on VLAN.
 
 - **Wireless Access Point (WAP)**  
-  Configured with **WPA2** security to provide internet access to customers.
+  Configured internet access to customers and workers.
 
-- **SSH Remote Access**  
-  Secure access to the network infrastructure for administrators.
 
 - **Access Control Lists (ACLs)**  
   Network-level policies to restrict guest access to sensitive segments.
@@ -34,7 +32,8 @@ This project simulates the IT infrastructure of a small retail tech branch. It c
 - Cisco Packet Tracer  
 - VLANs  
 - DHCP  
-- ROAS  
+- ROAS
+- OSPF
 - Wireless Access Point (WPA2)  
 - SSH  
 - ACLs  
