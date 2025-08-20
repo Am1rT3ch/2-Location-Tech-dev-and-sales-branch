@@ -14,7 +14,7 @@ This project simulates the IT infrastructure of a small retail tech branch and a
 
 - **VLAN Segmentation**  
   Dedicated VLANs for staff and guests for network isolation and improved security.
-  Six VLANs separating departments and security systems of 2 locations:
+  12 VLANs separating departments and security systems of 2 locations:
   * vlan 10 - tech support for sales
   * vlan 20 - accounting department
   * vlan 30 - accounting managment
